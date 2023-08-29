@@ -18,6 +18,7 @@ h4{
 	place-content: center;
     grid-template-columns: repeat(2, 1fr);
         width: 50%;
+        margin: 0 auto;
   grid-row: 2/3;
    
   
